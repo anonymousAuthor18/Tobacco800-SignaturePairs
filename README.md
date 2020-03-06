@@ -9,4 +9,4 @@ signature_path_1 signature_path_2 0/1
 ```
 0 indicates negative pair (no match) and 1 indicates positive pair (match).
 
-Also, all training, validation and test signatures with their names are in train.txt, valid.txt and test.txt respectively.
+Also, all training, validation and test signatures with their names are in train.txt, val.txt and test.txt respectively.
